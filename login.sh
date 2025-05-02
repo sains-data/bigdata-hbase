@@ -1,0 +1,1 @@
+docker exec -it bigdata-hive-hbase "/bin/bash"
